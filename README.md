@@ -1,4 +1,4 @@
-###HRNetworkGO
+HRNetworkGO
 
 HRNetworkGO is a machine learning project that uses a neural network to predict hand writing images from the MNIST dataset. The neural network is implemented from scratch using the Go programming language.
 
